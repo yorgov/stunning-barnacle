@@ -1,2 +1,0 @@
-first feature 1 push
-additional commit for feature 1
