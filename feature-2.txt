@@ -1,3 +1,4 @@
 init commit for feature 2
 new stuff for feature 2
 hotfix feature 2
+some fix
