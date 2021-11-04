@@ -1,2 +1,3 @@
+fix 2
 adding feature 3
 some other fix for feature 3
